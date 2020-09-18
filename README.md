@@ -8,4 +8,6 @@ $python3 orbit.py -m1 1 -m2 2 -key 1 -a 3 -ms 10 -plot polar -prop log\\
 
 For example, the above command asks the system to execute the code with mass of the binary components being 1 and 2 units (some common base unit, say M_sun) with marker scale factor of 10, separation between them 3 units (say pc, A, etc.,) with the marker size proportional to logarithm of their masses and finally save the simulation (animation) as a ".gif" file.
 
-The bibliography of the report contains the links which were helpful in making of the code and understanding the importance of simulations in general. I would like to express my gratitude for the original authors of the same.
+# Bibliography
+
+https://github.com/zaman13/Three-Body-Problem-Gravitational-System
