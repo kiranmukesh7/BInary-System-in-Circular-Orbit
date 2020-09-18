@@ -4,7 +4,7 @@ This repository contains the code(s) for animating binary systems with user defi
 
 The code can be run from the terminal by providing the input arguments along with the execution command. The below command can be used to get the list of input arguments and a brief description of the same. It also prints the guide to usage on the terminal.
 
-$python3 orbit.py -m1 1 -m2 2 -key 1 -a 3 -ms 10 -plot polar -prop log\\
+$python3 orbit.py -m1 1 -m2 2 -key 1 -a 3 -ms 10 -plot polar -prop log
 
 For example, the above command asks the system to execute the code with mass of the binary components being 1 and 2 units (some common base unit, say M_sun) with marker scale factor of 10, separation between them 3 units (say pc, A, etc.,) with the marker size proportional to logarithm of their masses and finally save the simulation (animation) as a ".gif" file.
 
